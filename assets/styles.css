@@ -1,0 +1,31 @@
+.navbar-1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: white;
+}
+
+.box-1{
+    flex-wrap: wrap;
+    margin: 2em;
+    justify-content: space-between;
+}
+
+.box-2{
+    flex-wrap: wrap;
+    margin:2em;
+    justify-content: space-between;
+}
+
+.box-3{
+    flex-wrap: wrap;
+    margin:2em;
+    justify-content: space-between;
+}
